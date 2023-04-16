@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    abc --  new1    --  @new1t
 
 # THANKS
 
