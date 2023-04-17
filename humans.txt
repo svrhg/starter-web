@@ -7,7 +7,7 @@
     abc --  new1    --  @new1t
 
 # THANKS
-
+Thank you all
     <name>
 
 # TECHNOLOGY COLOPHON
