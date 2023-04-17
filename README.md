@@ -14,3 +14,11 @@ Craft beer mlkshk before they sold out, drinking vinegar fingerstache chambray c
 
 # new
 Heirloom dreamcatcher trust fund godard narwhal tote bag cloud bread fit chia schlitz poutine offal marxism cliche. Unicorn air plant semiotics, selvage mlkshk viral shoreditch scenester subway tile ramps coloring book letterpress pickled microdosing vice. Paleo retro twee biodiesel mixtape trust fund chia big mood enamel pin disrupt. Flexitarian chambray raclette chartreuse grailed. Truffaut locavore YOLO ennui brunch. Unicorn small batch godard tofu, mustache meditation VHS cray meggings messenger bag single-origin coffee tumeric la croix. Jean shorts vibecession chicharrones, street art +1 iceland church-key echo park disrupt migas sartorial truffaut meggings.
+
+Rebase might be outlawed in your project. There may be local, cultural objections. Some projects or organizations consider rebase as a form of heresy, and an act of desecration. Some people believe the Git history should be an inviolable, permanent record of what has happened. So, rebase might be off the table.
+
+But, used locally, on private branches, rebase is a useful tool.
+
+Push after you’ve rebased, and restrict it to branches where you’re the only developer. Or at least, where all development has stopped, and no one else has based any other work off your branch’s commits.
+
+Do that and you’ll avoid any issues.
